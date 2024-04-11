@@ -1,0 +1,8 @@
+{
+    "location" : "socket://localhost:8001",
+    "gcparams": {
+        "id": 1,
+        "location" : "socket://localhost:9001",
+        "others" : [ "socket://localhost:9000", "socket://localhost:9002" ]
+    }
+}
