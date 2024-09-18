@@ -6,7 +6,7 @@ Implementation of multiple sources single group (MSMG) group communication algor
 ## Project Structure
 
 - **client.ol**: The client is responsible for interacting with the servers. It performs the operations on the distributed servers and outputs responses to the console.
-- **server.ol**: The server contains the implementtion of a simple key-value store. 
+- **server.ol**: The server contains the implementation of a simple key-value store. 
 - **params0.json, params1.json, params2.json**: JSON configuration files specifying server parameters, including server locations and group communication setup.
 - **startservers.sh**: A script to start the servers in the background using parameter files.
 
